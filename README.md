@@ -1,3 +1,7 @@
+# OHM-App
+
+This was made by Stadium#9785 and chee#2787 for Abachi.io whitelist opportunity.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
