@@ -3,8 +3,7 @@
 This was made by Stadium#9785 and chee#2787 for Abachi.io whitelist opportunity.
 
 # Screenshot
-
-
+![Alt text](/src/images/screenshot.PNG)
 
 # How to run
 
