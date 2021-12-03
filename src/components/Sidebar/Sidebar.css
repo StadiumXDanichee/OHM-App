@@ -1,0 +1,73 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 250px;
+    color: #253449;
+    background-color: #e7f0f6;
+}
+
+/* Ohm Logo Container */
+
+.ohm-container {
+    color: #253449;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.ohm-container > * {
+    margin: 5px;
+}
+
+.ohm-logo {
+    height: 50px;
+}
+
+/* Utility Container */
+
+.utility-container {
+    flex-direction: column;
+    padding: 15vh 0vh;
+    padding-left: 15px;
+}
+
+.utility-item {
+    display: flex;
+    align-self: center;
+}
+
+.utility-item > * {
+    margin: 5px 5px 0px;   
+}
+
+.util-logo {
+    padding: 5px;
+    height: 25px;
+    cursor: pointer;
+}
+
+/* Social Container */
+
+.social-container {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    margin-top: auto;
+    justify-content: space-evenly;
+}
+
+.social-container > * {
+    margin: 5px;
+    padding: 5px;
+}
+
+.social-logo {
+    height: 25px;
+    cursor: pointer;
+    align-self: flex-end;
+}
